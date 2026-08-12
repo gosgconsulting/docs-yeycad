@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vsag0s.resultadofacil.com.br/sitemap.xml
